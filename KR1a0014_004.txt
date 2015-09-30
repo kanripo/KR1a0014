@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 橫渠易說
-#+DATE: 2015-09-23 09:34:14
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:53:43.955505
+#+PROPERTY: ID KR1a0014
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 橫渠先生行狀
 <pb:KR1a0014_WYG_004-1a>¶
 横渠先生行狀¶
 　　　　　　　　　　　　吕　大　臨¶
@@ -125,4 +127,3 @@
 塟其治喪禮一用古以終先生之志某惟先生之學之¶
 至備存于書畧述于謚議矣然欲求文以表其墓必得¶
 行事之迹敢次以書¶
-
